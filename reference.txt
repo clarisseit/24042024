@@ -1,0 +1,94 @@
+Name: Jeanne Beula NZABIHIMANA
+Job Title: Program Manager
+Company: KLab Rwanda
+Phone: Tel: +250782639199
+E-mail Address: beula@klab.rw
+
+
+Name: Ishimwe Mukotsi Prince
+Job Title: HoD of Software Engineering
+Company: AUCA
+Phone: +250782974499
+E-mail Address: example@email.com
+
+Fields marked with * are required.
+
+Title
+UI Developer
+Company
+Klab TeckSkills
+Office location
+Kigali, Rwanda
+Description
+* Collaborated closely with cross-functional teams to conceptualize and design user interfaces for web   applications, with a focus on delivering seamless user experiences. * Executed the creation of visually compelling and user-friendly designs, adhering to design principles and   brand guidelines. * Applied UI/UX design principles to enhance the overall user journey and engagement on web platforms. * Worked with tools such as Sketch, Figma, or Adobe XD to craft wireframes, prototypes, and high-fidelity   mockups. * Conducted user research and usability testing to gather valuable insights and refine design solutions. * Collaborated with Frontend Developers to ensure the implementation of design specifications and maintain   design consistency throughout development. * Contributed to an iterative design process, incorporating feedback and continuously refining designs to meet   project goals. * Kept abreast of industry trends and best practices in UI/UX design to drive innovation and maintain a high   standard of design excellence.
+From
+05/2023
+To
+02/2024
+
+I currently work here
+Cancel
+Save
+
+Fields marked with * are required.
+
+Title
+Frontend Developer
+Company
+Hellomed Inc
+Office location
+Kigali, Rwanda
+Description
+* Collaborating with the development team to design and develop user interfaces for web applications,   focusing on front-end technologies such as HTML, CSS, and JavaScript * Implementing responsive and visually appealing user interfaces that meet design requirements and provide   an optimal user experience. * Utilizing front-end frameworks and libraries, such as React, Angular, or Vue.js, to build dynamic and   interactive web applications. * Integrating with back-end APIs and services to retrieve and display data dynamically on the user interface. * Conducting thorough testing and debugging of front-end code to ensure high-quality and bug-free   applications. * Optimizing web applications for performance, including efficient loading times and responsive design   across various devices and browsers. * Collaborating with UX/UI designers to ensure the translation of design mockups into functional front-end   components.
+From
+03/2023
+To
+03/2024
+
+I currently work here
+Cancel
+Save
+
+Bridge Program 2024 - 2024
+
+Carnegie Mellon University
+
+Technical Skills: Internet of Things, Introduction of Embedded system and software Engineering.
+
+
+Education
+Add
+
+ADVENTIST UNIVERISITY OF CENTRAL AFRICA Kigali, Rwanda 2019
+
+I.T/Information Management
+
+
+
+Cisco Networking Academy Kigali, Rwanda 2022 - 2022
+
+NDG Linux Certificate
+
+
+On the web
+LinkedIn
+https://www.linkedin.com/in/uwizeyimana-clarisse-436794230/
+Facebook
+X (fka Twitter)
+Uwizeyi98128625
+Website
+https://clarisseu-portfolio.netlify.app/
+Resume
+Clarisse-Uwizeyimana CV.pdf
+Message to Hiring Manager
+
+
+Let the company know about your interest working there
+Dear AmaliTech Team,
+
+I'm eager to join your UI/UX Design Programme. Your commitment to technology education in Africa resonates with me deeply. I'm excited about the chance to learn and contribute to your mission. My background in design and development makes me a good fit, and I'm ready to bring my skills and passion to your team.
+
+Thank you for considering my application.
+
+Best regards,
+Clarisse.
